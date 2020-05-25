@@ -1,0 +1,1 @@
+/usr/bin/cc   -rdynamic CMakeFiles/DFT.dir/src/dft.c.o  -o DFT -lm 

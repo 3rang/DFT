@@ -1,0 +1,18 @@
+#IncludeRegexLine: ^[ 	]*[#%][ 	]*(include|import)[ 	]*[<"]([^">]+)([">])
+
+#IncludeRegexScan: ^.*$
+
+#IncludeRegexComplain: ^$
+
+#IncludeRegexTransform: 
+
+/home/tarang/DFT/git/DFT/src/dft.c
+stdio.h
+-
+stdlib.h
+-
+math.h
+-
+complex.h
+-
+
